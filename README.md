@@ -11,3 +11,7 @@ public static KeyStore getCloudStackApiKey(String url, String name, String passw
 秉着最简化的代码，剥离了httpclient，直接用拼凑请求字符串完成。
 
 仅供参考使用。
+
+代码只演示了简单的几个api调用接口，更多的功能请参考cloudstack官方api文档说明来实现。
+
+也欢迎大家补充更多功能，也方便更多的开发者。
